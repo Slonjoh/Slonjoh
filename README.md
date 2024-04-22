@@ -2,8 +2,9 @@
 
 I'm a passionate software engineer 👨‍💻, Graphic Designer working remotely from 🇳🇬 Nigeria 🚀.
 - 🔍  I'm a curious and 💡 creative person, always ready to learn 📚.
-- ❓ Ask me about anything related to Python, C  and also Photoshop.
-- 🌱 I’m currently improving my knowledge in System Programming.
+- ❓ Ask me about anything related to Python, C, ORM, MYSQL, API, System Engineering and also Photoshop.
+- 🌱 I am an innovative Full-Stack Software Engineer with experience in projects related to web development (Python, JavaScript, Flask), low level programming (C, Bash).
+- 🌱Proficient in version control systems (Git), Object-Related-Programming(ORM), databases (SQL, POSTGRESQL), Deployment of applications on web servers(AWS Cloud Services), System Devops and RESTful API.
 - ⚡ Fun fact: I seldom write, intrigued by art, love binge watching movies; really facinated by the  character "Stewie".
 
 ## Connect with Me
@@ -12,7 +13,6 @@ You can find me on various platforms:
 
 <div style="display: flex; gap: 20px; align-items: center;">
     <a href="https://github.com/Slonjoh"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="20" height="20" /></a>&nbsp;GitHub&nbsp;
-    <a href="https://www.linkedin.com/in/slonjoh"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="20" height="20" /></a>&nbsp;LinkedIn&nbsp;
     <a href="https://twitter.com/slonjoh"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="20" height="20" /></a>&nbsp;Twitter
 </div>
 
