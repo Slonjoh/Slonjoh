@@ -1,6 +1,6 @@
 # Hello, I'm SLONJOH 👋
 
-I'm a passionate software engineer 👨‍💻, Graphic Designer working remotely from 🇳🇬 Nigeria 🚀.
+I'm a passionate software engineer 👨‍💻, Graphic Designer working remotely🚀.
 - 🔍  I'm a curious and 💡 creative person, always ready to learn 📚.
 - ❓ Ask me about anything related to Python, C, ORM, MYSQL, API, System Engineering and also Photoshop.
 - 🌱 I am an innovative Full-Stack Software Engineer with experience in projects related to web development (Python, JavaScript, Flask), low level programming (C, Bash).
