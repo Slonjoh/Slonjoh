@@ -25,8 +25,8 @@ You can find me on various platforms:
 
 Here are some of the technologies and tools I work with:
 
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="25" height="25" /> C
-- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="25" height="25" /> PYTHON
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="25" height="20" /> C
+- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="25" height="20" /> PYTHON
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="25" height="25" /> HTML
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="25" height="25" /> CSS3
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="25" height="25" /> JAVASCRIPT
